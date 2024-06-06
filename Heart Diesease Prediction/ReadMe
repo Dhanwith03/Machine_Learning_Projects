@@ -1,0 +1,4 @@
+This is a Heart Disease Prediction project, Following ZMT Udemy course
+I uploaded the data from kaggle and had to remove null values and change the string values into binary, did that using One Hot Endcoder and Coulmn Transform (Pandas method)
+Used RandomSearchCV and Grid Search CV to tuning Parameters 
+Classification Report at the end.
